@@ -1,8 +1,8 @@
 ---
 layout: home
-title: About This Journal
 ---
-### This is my personal space for monthly reflections and growth tracking.
+
+This is my personal space for monthly reflections and growth tracking.
 
 **I focus on 6 life sectors:**
 1. Move - Physical health

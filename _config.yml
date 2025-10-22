@@ -1,9 +1,8 @@
 theme: minima
-title: Kenzie's Monthly Journal
-description: Growth tracking through 6 life sectors
-author: Kenzie, limpdpd@gmail.com
+title: "Kenzie"  
 
 minima:
-  skin: solarized  
-  
+  skin: auto
+
 markdown: kramdown
+future: true
