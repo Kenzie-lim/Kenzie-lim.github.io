@@ -1,15 +1,9 @@
 theme: minima
-title: My Monthly Journal
+title: Kenzie's Monthly Journal
 description: Growth tracking through 6 life sectors
-author: Kenzie
+author: Kenzie, limpdpd@gmail.com
 
-# Minima 스킨 (선택)
 minima:
-  skin: auto  # 다크모드 자동 (classic, dark, auto, solarized 중 선택)
-
-# 소셜 링크 (선택사항)
-# github_username: Kenzie-lim
-# email: your-email@example.com
-
-# Build settings
+  skin: solarized  
+  
 markdown: kramdown

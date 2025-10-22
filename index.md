@@ -1,20 +1,13 @@
 ---
 layout: home
-title: Welcome
+title: About This Journal
 ---
+### This is my personal space for monthly reflections and growth tracking.
 
-## About This Journal
-
-This is my personal space for monthly reflections and growth tracking.
-
-I focus on 6 life sectors:
-- 🏃 **Move** - Physical health & activity
-- 🧘 **Breathe** - Mental health & mindfulness
-- 🤝 **Connect** - Relationships & social connections
-- 📚 **Learn** - Input & knowledge growth
-- 🔨 **Build** - Output & creation
-- 🎮 **Play** - Recreation & fun
-
----
-
-### Recent Reports
+**I focus on 6 life sectors:**
+1. Move - Physical health
+2. Breathe - Mental health & mindfulness
+3. Connect - Relationships
+4. Learn - Input & knowledge growth
+5. Build - Output & creation
+6. Play - fun
